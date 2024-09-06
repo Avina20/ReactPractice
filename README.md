@@ -1,1 +1,1 @@
-# ReactPractice
+# React.js Training Exercise Files
